@@ -4,7 +4,7 @@
 
 
 
-About This Course:
+About This Project features:
 
 -   🚀 Project Setup
 -   🗄️ MongoDB Integration
